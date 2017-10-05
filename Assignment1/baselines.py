@@ -1,7 +1,3 @@
-# Michael Chin
-# 5/19/2015
-#
-
 ###---------------------- DEFINE DEPENDENCIES 
 import gzip
 import urllib
