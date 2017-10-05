@@ -220,17 +220,3 @@ mse2 = blah / 25000
 
 print "Mean-squared error on training set: " + str(mse2)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
